@@ -1,5 +1,7 @@
 # Simple Profile App
 
+<img width="1440" alt="Screenshot 2023-05-06 at 17 45 03" src="https://user-images.githubusercontent.com/119029821/236619626-4bf8a58d-c4ce-4802-a046-0cb4a2733aa4.png">
+
 A new Flutter project.
 
 ## Getting Started
