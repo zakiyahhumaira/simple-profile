@@ -1,4 +1,4 @@
-# plis
+# Simple Profile App
 
 A new Flutter project.
 
